@@ -4,7 +4,11 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
     <Version>1.0.0</Version>
-    <Authors>wuxinwudai</Authors>
+    <Author>王嘉庆</Author>
+    <Authors>王嘉庆</Authors>
+    <LangVersion>10.0</LangVersion>
+    <Description>Newtonsoft.Json 扩展类库</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression> 
   </PropertyGroup>
 
   <ItemGroup>
